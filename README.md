@@ -33,3 +33,6 @@ Some informations only apear when an event occure.
 21. The user’s avatar.
 22. Highlighted when the optical reader is opened.
 23. Displaying downloding task (according to a download manager like aria2).
+
+##Screen
+![Legend](./screen.png)
