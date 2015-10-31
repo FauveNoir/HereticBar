@@ -1,4 +1,6 @@
 # HereticBar
+
+![Logo](./logo.png)
 A system informative bar for desktop.
 
 ![Prevew image](./preview.png)
@@ -35,4 +37,4 @@ Some informations only apear when an event occure.
 23. Displaying downloding task (according to a download manager like aria2).
 
 ##Screen
-![Legend](./screen.png)
+![Screenshot](./screen.png)
