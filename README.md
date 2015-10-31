@@ -1,6 +1,7 @@
 # HereticBar
 
 ![Logo](./logo.png)
+
 A system informative bar for desktop.
 
 ![Prevew image](./preview.png)
